@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Objects
+  m_EditorClassIdentifier: 
+  m_GroupName: Objects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f1118e5780bebbb44b706981c18cdc04
+  m_SerializeEntries:
+  - m_GUID: 63047f385720a8541b5d073031ff8589
+    m_Address: Assets/Prefabs/Player.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ebd243b418405f94eaec0f9bab437a18
+    m_Address: Assets/Prefabs/Asteroid.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ed68755b8f137a45ab8260e997b00e6
+    m_Address: Assets/Prefabs/Bullet.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 44be0759119ac6f438bf31408e1b5615, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3a59ce324e14a8c4085a913ec1c6fdde, type: 2}
+    - {fileID: 11400000, guid: fb47b9e30968b234aacc4170fc27d0e0, type: 2}
