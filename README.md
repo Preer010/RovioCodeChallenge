@@ -11,4 +11,5 @@ My last challenge was to implement Addressables, at first it went very smooth an
 
 For the controlls:
 Move: WASD, arrows
+
 Shoot: Space
