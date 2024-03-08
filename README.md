@@ -7,3 +7,8 @@ It was a bit tough at first to figure out how to use the SOLID principles with U
 There were some issues when I tried to use a dependency injection framework, but I eventually figured out the different problems that I encountered.
 
 My last challenge was to implement Addressables, at first it went very smooth and easy. But then when I built the project, they acted differently. It was my async handle that acted different in the build than in the editor and fixed that issue.
+
+
+For the controlls:
+Move: WASD, arrows
+Shoot: Space
